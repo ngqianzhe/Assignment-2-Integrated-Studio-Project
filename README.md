@@ -82,5 +82,5 @@ Note : *The gif currently in index.html is not going to be used in the end produ
 - Pop sound effect : https://youtu.be/-ur58fwo5Ok
 
 ### Acknowledgements
-- Ng Qian Zhe  (https://github.com/MysticZens)
+- Ng Qian Zhe  (https://github.com/ngqianzhe)
 - Muhammad Isaac bin Mohammed Khaizad  (https://github.com/MIbmkz)
